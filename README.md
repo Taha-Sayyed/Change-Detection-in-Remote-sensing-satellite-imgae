@@ -30,7 +30,7 @@ The CDNeXt model consists of:
 - ✅ Multi-scale training and inference
 
 ## Usage
-1)  Get the LEVIR_CD+ datset from the attached zip file in the repo
+1)  Get the LEVIR_CD+ datset from the link: https://www.kaggle.com/datasets/mdrifaturrahman33/levir-cd-change-detection
 2)  Data Preparation
 
     <img width="371" height="408" alt="image" src="https://github.com/user-attachments/assets/c747c3b2-418f-48af-9032-419ae786742c" />
