@@ -1,4 +1,4 @@
-# CDNeXt: Change Detection with ConvNeXt Architecture
+# 🌎 CDNeXt: Change Detection with ConvNeXt Architecture
 
 A PyTorch implementation of change detection for remote sensing imagery using ConvNeXt backbone with various attention mechanisms.
 
@@ -49,6 +49,11 @@ The CDNeXt model consists of:
 <img width="5013" height="5005" alt="results (1)" src="https://github.com/user-attachments/assets/151c903d-3c5a-4db7-839b-6fc089d2a41d" />
 
 <img width="800" height="245" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/2c7ce90a-ffed-46e3-ad98-21cfbb00bb7a" />
+
+- When I did training upto 100 epoch, then the results are:
+  
+  <img width="630" height="253" alt="image (2)" src="https://github.com/user-attachments/assets/92083d21-d066-4e8d-9da2-cf3222b761a8" />
+
 
 
    
